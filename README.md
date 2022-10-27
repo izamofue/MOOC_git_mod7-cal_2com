@@ -1,2 +1,2 @@
-# cal
-Educational Git project. Creates a simple calculator in HTML and JavaScript in short steps. 
+# Link
+Link del repositorio: https://github.com/izamofue/MOOC_git_mod7-cal_2com.git
